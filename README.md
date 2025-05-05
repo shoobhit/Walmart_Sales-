@@ -99,8 +99,8 @@ This project focuses on analyzing Walmart sales data using SQL and Python. The d
 ## Project Structure
 
 ```plaintext
-|-- data/                     # Raw data and transformed data
-|-- sql_queries/              # SQL scripts for analysis and queries
+|-- walmart             # Transformed data
+|-- walmart_sales.sql         # SQL scripts for analysis and queries
 |-- README.md                 # Project documentation
 |-- requirements.txt          # List of required Python libraries
 |-- main.py                   # Main script for loading, cleaning, and processing data
